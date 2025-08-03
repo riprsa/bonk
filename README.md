@@ -2,7 +2,7 @@
 
 ## How to use it?
 
-Clone, `bun i`, `bun gen.ts`, at `index.ts` fill in `MINT_ADDRESS` and RPC URLs, and create `your_private_key.json`.
+Clone, `bun i`, `bun gen.ts`, at `index.ts` fill in `MINT_ADDRESS` and RPC URLs, and create `your_private_key.json`. Then run with `bun index.ts`
 
 ## Goal?
 
